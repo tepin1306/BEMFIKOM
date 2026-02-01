@@ -16,10 +16,10 @@ const departments = [
                 <path strokeLinecap='round' strokeLinejoin='round' strokeWidth='2' d='M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z' />
             </svg>
         ),
-        leader: { name: 'Jonathan Manurung', img: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=400&auto=format&fit=crop' },
+        leader: { name: 'Jonathan Manurung', img: 'https://i.ibb.co.com/SXB2rX8W/jonatan.jpg' },
         vices: [
-            { name: 'Emia br Ginting', img: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=400&auto=format&fit=crop' },
-            { name: 'Christina Nainggolan', img: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=400&auto=format&fit=crop' }
+            { name: 'Emia br Ginting', img: 'https://i.ibb.co.com/RpqXXr8W/emia.jpg' },
+            { name: 'Christina Nainggolan', img: 'https://i.ibb.co.com/tMZsmF5f/cristina.jpg' }
         ],
         members: ['Grahel Simanjuntak ', 'Christian Sembiring', 'Arum Sriningsih Siburian', 'Jesika Sondewi Gultom', 'Nofri Anastasya S Sianturi', 'Ory Dokhsia Cristanauly', 'Diva Fidela Sirait', 'Lestari Natalia Sianipar', 'Anggelia Simanjuntak', 'Yupri Baik Simanjuntak', 'Johannes Silitonga', 'Dimas Lumban gaol', 'Sunardio Bangun', 'Bona Aritonang'],
         desc: 'Berfokus pada kesejahteraan mahasiswa dan koordinasi internal.'

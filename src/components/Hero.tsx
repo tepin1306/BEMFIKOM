@@ -122,7 +122,7 @@ export default function Hero() {
                         <span className="text-slate-500 font-black uppercase tracking-[0.4em] text-3xl whitespace-nowrap opacity-30 italic">UI/UX Design</span>
                         <span className="text-slate-500 font-black uppercase tracking-[0.4em] text-3xl whitespace-nowrap opacity-30 italic">Web Development</span>
                         <span className="text-slate-500 font-black uppercase tracking-[0.4em] text-3xl whitespace-nowrap opacity-30 italic">Data Analytics</span>
-                        <span className="text-slate-500 font-black uppercase tracking-[0.4em] text-3xl whitespace-nowrap opacity-30 italic">Cyber Security</span>
+                        <span className="text-slate-500 font-black uppercase tracking-[0.4em] text-3xl whitespace-nowrap opacity-30 italic">Big Data</span>
                         {/* Duplicate for seamless loop */}
                         <span className="text-slate-500 font-black uppercase tracking-[0.4em] text-3xl whitespace-nowrap opacity-30 italic">Software Development</span>
                         <span className="text-slate-500 font-black uppercase tracking-[0.4em] text-3xl whitespace-nowrap opacity-30 italic">UI/UX Design</span>

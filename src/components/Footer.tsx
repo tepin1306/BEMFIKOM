@@ -31,8 +31,8 @@ export default function Footer() {
                         <div className="flex gap-4">
                             {[
                                 { name: 'Instagram', icon: 'IG', url: 'https://www.instagram.com/bemfikomumi_/' },
-                                { name: 'Youtube', icon: 'YT', url: '#' },
-                                { name: 'Mail', icon: 'EM', url: '#' },
+                                { name: 'TikTok', icon: 'TK', url: 'https://www.tiktok.com/@_bemfikomumi' },
+                                { name: 'Mail', icon: 'EM', url: 'https://mail.google.com/mail/u/1/?ogbl' },
                             ].map((social) => (
                                 <a
                                     key={social.name}

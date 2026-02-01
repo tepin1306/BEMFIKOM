@@ -35,7 +35,7 @@ const staff = [
 ]
 
 const deptHeads = [
-    { name: 'Jonatan Manurung', role: 'Ketua PSDK', img: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=400&auto=format&fit=crop' },
+    { name: 'Jonatan Manurung', role: 'Ketua PSDK', img: 'https://i.ibb.co.com/SXB2rX8W/jonatan.jpg' },
     { name: 'Agnes Yunita Purba', role: 'Ketua POK', img: 'https://i.ibb.co.com/JRbt2cRF/agnes.jpg' },
     { name: 'Stevin Alexander Manalu', role: 'Ketua IPTEK', img: 'https://i.ibb.co.com/hJbCKS98/stevin.jpg' }
 ]

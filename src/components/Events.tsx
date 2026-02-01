@@ -50,6 +50,20 @@ const events = [
         loc: 'Aula lt 3, Kampus 1'
     },
     {
+        title: 'BEM FIKOM PEDULI: Kunjungan Panti Asuhan',
+        tag: 'SOSIAL & KEMANUSIAAN',
+        desc: 'Aksi nyata kepedulian mahasiswa FIKOM UMI melalui berbagi kebahagiaan dan bantuan di panti asuhan.',
+        fullDesc: 'Program "BEM FIKOM Peduli" merupakan agenda rutin yang fokus pada pengabdian masyarakat. Dalam kegiatan ini, pengurus BEM menyalurkan bantuan berupa donasi, sembako, dan perlengkapan sekolah, serta mengadakan sesi motivasi dan permainan edukatif bagi anak-anak panti asuhan untuk mendorong semangat belajar mereka.',
+        img: 'https://i.ibb.co.com/1NfcSGX/1.jpg',
+        images: [
+            'https://i.ibb.co.com/fdjYkhvj/2.jpg',
+            'https://i.ibb.co.com/XZWXdRb1/3.jpg',
+            'https://i.ibb.co.com/qF46L4jp/4.jpg'
+        ],
+        date: 'Januari 2026',
+        loc: 'Panti Asuhan Kasih Bunda'
+    },
+    {
         title: 'Liga Fikom 2026',
         tag: 'Coming Soon',
         desc: 'Turnamen Futsal, Bulu Tangkis, dan Mobile Legends.',
