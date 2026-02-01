@@ -35,7 +35,7 @@ const departments = [
         ),
         leader: { name: 'Agnes Yunita Purba', img: 'https://i.ibb.co.com/JRbt2cRF/agnes.jpg' },
         vices: [
-            { name: 'Noah Sianturi', img: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=400&auto=format&fit=crop' }
+            { name: 'Noah Sianturi', img: 'https://i.ibb.co.com/JWY0T1Ck/noah.jpg' }
         ],
         members: ['Dewi Anggraini Sidabalok', 'Avriliana Morisa Tambunan', 'Sittri Lubis', 'Yeny Romlis manullang', 'Nurintan Vermata Sari Sihombing', 'Iyen Laberta Simbolon', 'Louis Vallen Fernando Sitompul', 'Filipi Okto Siahaan'],
         desc: 'Mengelola kegiatan spiritual mahasiswa guna mencetak generasi IT religius.'

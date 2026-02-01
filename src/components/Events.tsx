@@ -61,7 +61,7 @@ const events = [
             'https://i.ibb.co.com/qF46L4jp/4.jpg'
         ],
         date: 'Januari 2026',
-        loc: 'Panti Asuhan Kasih Bunda'
+        loc: 'Panti Asuhan Medan'
     },
     {
         title: 'Liga Fikom 2026',
