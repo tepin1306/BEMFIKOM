@@ -79,8 +79,8 @@ export default function Footer() {
                                 <div>
                                     <p className="text-xs text-slate-500 uppercase font-black mb-2">Lokasi Utama</p>
                                     <p className="text-slate-400 text-sm leading-relaxed">
-                                        Fakultas Ilmu Komputer, Kampus II UMI <br />
-                                        Jl. Urip Sumoharjo KM.05, Makassar
+                                        Fakultas Ilmu Komputer, Kampus I Universitas Methodist Indonesia <br />
+                                        Jl. Hang Tuah No. 8 Medan
                                     </p>
                                 </div>
                                 <button
